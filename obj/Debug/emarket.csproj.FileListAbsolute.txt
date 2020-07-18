@@ -1,0 +1,257 @@
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\emarket.dll.config
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\emarket.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\emarket.pdb
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\csc.exe
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\csc.exe.config
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\csc.rsp
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\csi.exe
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\csi.exe.config
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\csi.rsp
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\System.AppContext.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\System.Console.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\vbc.exe
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\vbc.exe.config
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\vbc.rsp
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\Antlr3.Runtime.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\EntityFramework.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\EntityFramework.SqlServer.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\Newtonsoft.Json.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\System.Web.Helpers.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\System.Web.Mvc.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\System.Web.Optimization.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\System.Web.Razor.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\System.Web.WebPages.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\WebGrease.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\EntityFramework.xml
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\EntityFramework.SqlServer.xml
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\System.Web.Helpers.xml
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\System.Web.Mvc.xml
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\System.Web.Optimization.xml
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\System.Web.Razor.xml
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\System.Web.WebPages.xml
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\Newtonsoft.Json.xml
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\Antlr3.Runtime.pdb
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\obj\Debug\emarket.csprojAssemblyReference.cache
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\obj\Debug\emarket.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\obj\Debug\emarket.csproj.CopyComplete
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\obj\Debug\emarket.dll
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\obj\Debug\emarket.pdb
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\obj\Debug\emarket.Migrations.first.resources
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\obj\Debug\emarket.csproj.GenerateResource.cache
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\obj\Debug\emarket.Migrations.second.resources
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\obj\Debug\emarket.Migrations.third.resources
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\obj\Debug\emarket.Migrations.fourth.resources
+C:\Users\Mohamed Abd El-Meged\source\repos\emarket\emarket\obj\Debug\emarket.Migrations.fifth.resources
+F:\emarket-master\bin\emarket.dll.config
+F:\emarket-master\bin\emarket.dll
+F:\emarket-master\bin\emarket.pdb
+F:\emarket-master\bin\roslyn\csc.exe
+F:\emarket-master\bin\roslyn\csc.exe.config
+F:\emarket-master\bin\roslyn\csc.rsp
+F:\emarket-master\bin\roslyn\csi.exe
+F:\emarket-master\bin\roslyn\csi.exe.config
+F:\emarket-master\bin\roslyn\csi.rsp
+F:\emarket-master\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\emarket-master\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\emarket-master\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\emarket-master\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\emarket-master\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\emarket-master\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\emarket-master\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\emarket-master\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\emarket-master\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\emarket-master\bin\roslyn\Microsoft.Managed.Core.targets
+F:\emarket-master\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\emarket-master\bin\roslyn\System.AppContext.dll
+F:\emarket-master\bin\roslyn\System.Collections.Immutable.dll
+F:\emarket-master\bin\roslyn\System.Console.dll
+F:\emarket-master\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\emarket-master\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\emarket-master\bin\roslyn\System.IO.Compression.dll
+F:\emarket-master\bin\roslyn\System.IO.FileSystem.dll
+F:\emarket-master\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\emarket-master\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\emarket-master\bin\roslyn\System.IO.Pipes.dll
+F:\emarket-master\bin\roslyn\System.Reflection.Metadata.dll
+F:\emarket-master\bin\roslyn\System.Security.AccessControl.dll
+F:\emarket-master\bin\roslyn\System.Security.Claims.dll
+F:\emarket-master\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\emarket-master\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\emarket-master\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\emarket-master\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\emarket-master\bin\roslyn\System.Security.Principal.Windows.dll
+F:\emarket-master\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\emarket-master\bin\roslyn\System.ValueTuple.dll
+F:\emarket-master\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\emarket-master\bin\roslyn\System.Xml.XmlDocument.dll
+F:\emarket-master\bin\roslyn\System.Xml.XPath.dll
+F:\emarket-master\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\emarket-master\bin\roslyn\vbc.exe
+F:\emarket-master\bin\roslyn\vbc.exe.config
+F:\emarket-master\bin\roslyn\vbc.rsp
+F:\emarket-master\bin\roslyn\VBCSCompiler.exe
+F:\emarket-master\bin\roslyn\VBCSCompiler.exe.config
+F:\emarket-master\bin\Antlr3.Runtime.dll
+F:\emarket-master\bin\EntityFramework.dll
+F:\emarket-master\bin\EntityFramework.SqlServer.dll
+F:\emarket-master\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\emarket-master\bin\Microsoft.Web.Infrastructure.dll
+F:\emarket-master\bin\Newtonsoft.Json.dll
+F:\emarket-master\bin\System.Web.Helpers.dll
+F:\emarket-master\bin\System.Web.Mvc.dll
+F:\emarket-master\bin\System.Web.Optimization.dll
+F:\emarket-master\bin\System.Web.Razor.dll
+F:\emarket-master\bin\System.Web.WebPages.Deployment.dll
+F:\emarket-master\bin\System.Web.WebPages.dll
+F:\emarket-master\bin\System.Web.WebPages.Razor.dll
+F:\emarket-master\bin\WebGrease.dll
+F:\emarket-master\bin\EntityFramework.xml
+F:\emarket-master\bin\EntityFramework.SqlServer.xml
+F:\emarket-master\bin\System.Web.Helpers.xml
+F:\emarket-master\bin\System.Web.Mvc.xml
+F:\emarket-master\bin\System.Web.Optimization.xml
+F:\emarket-master\bin\System.Web.Razor.xml
+F:\emarket-master\bin\System.Web.WebPages.xml
+F:\emarket-master\bin\System.Web.WebPages.Deployment.xml
+F:\emarket-master\bin\System.Web.WebPages.Razor.xml
+F:\emarket-master\bin\Newtonsoft.Json.xml
+F:\emarket-master\bin\Antlr3.Runtime.pdb
+F:\emarket-master\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\emarket-master\obj\Debug\emarket.csprojResolveAssemblyReference.cache
+F:\emarket-master\obj\Debug\emarket.Migrations.first.resources
+F:\emarket-master\obj\Debug\emarket.Migrations.second.resources
+F:\emarket-master\obj\Debug\emarket.Migrations.third.resources
+F:\emarket-master\obj\Debug\emarket.Migrations.fourth.resources
+F:\emarket-master\obj\Debug\emarket.Migrations.fifth.resources
+F:\emarket-master\obj\Debug\emarket.csproj.GenerateResource.Cache
+F:\emarket-master\obj\Debug\emarket.dll
+F:\emarket-master\obj\Debug\emarket.pdb
+F:\emarket-master\obj\Debug\emarket.Migrations.Cart.resources
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\emarket.dll.config
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\emarket.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\emarket.pdb
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\csc.exe
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\csc.exe.config
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\csc.rsp
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\csi.exe
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\csi.exe.config
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\csi.rsp
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\Microsoft.Managed.Core.targets
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\System.AppContext.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\System.Collections.Immutable.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\System.Console.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\System.IO.Compression.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\System.IO.FileSystem.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\System.IO.Pipes.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\System.Reflection.Metadata.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\System.Security.AccessControl.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\System.Security.Claims.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\System.Security.Principal.Windows.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\System.ValueTuple.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\System.Xml.XmlDocument.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\System.Xml.XPath.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\vbc.exe
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\vbc.exe.config
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\vbc.rsp
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\VBCSCompiler.exe
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\roslyn\VBCSCompiler.exe.config
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\Antlr3.Runtime.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\EntityFramework.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\EntityFramework.SqlServer.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\Microsoft.Web.Infrastructure.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\Newtonsoft.Json.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\System.Web.Helpers.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\System.Web.Mvc.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\System.Web.Optimization.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\System.Web.Razor.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\System.Web.WebPages.Deployment.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\System.Web.WebPages.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\System.Web.WebPages.Razor.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\WebGrease.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\EntityFramework.xml
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\EntityFramework.SqlServer.xml
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\System.Web.Helpers.xml
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\System.Web.Mvc.xml
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\System.Web.Optimization.xml
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\System.Web.Razor.xml
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\System.Web.WebPages.xml
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\System.Web.WebPages.Deployment.xml
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\System.Web.WebPages.Razor.xml
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\Newtonsoft.Json.xml
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\Antlr3.Runtime.pdb
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\obj\Debug\emarket.Migrations.first.resources
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\obj\Debug\emarket.Migrations.second.resources
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\obj\Debug\emarket.Migrations.third.resources
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\obj\Debug\emarket.Migrations.fourth.resources
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\obj\Debug\emarket.Migrations.fifth.resources
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\obj\Debug\emarket.Migrations.Cart.resources
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\obj\Debug\emarket.csproj.GenerateResource.cache
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\obj\Debug\emarket.csproj.CopyComplete
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\obj\Debug\emarket.dll
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\obj\Debug\emarket.pdb
+E:\FCIH\Level 4\2nd Semester\IA\Project + Research\emarket-master\emarket-master\obj\Debug\emarket.csprojAssemblyReference.cache
